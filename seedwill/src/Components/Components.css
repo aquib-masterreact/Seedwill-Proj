@@ -1,0 +1,110 @@
+.nav{
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
+
+#Line1{
+    text-align: center;
+    font-weight: lighter;
+}
+.imagepart{
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#fold2para{
+    padding: 20px;
+    font-weight: lighter;
+    font-style: initial;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.fold2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-image: url('https://img.freepik.com/free-photo/analog-landscape-city-with-buildings_23-2149661456.jpg?size=626&ext=jpg');
+    color: whitesmoke;
+    height: 40vh;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.card{
+    width: 20%;
+    margin: 5px;
+    margin-top: 20px;
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    flex-wrap: wrap;
+    
+    
+}
+.fold4{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+#c1{
+    margin: 20px;
+}
+#f4h{
+    padding: 20px;
+}
+.f4{
+    background-color: beige;
+}
+#tdi{
+    padding: 20px;
+}
+#t1{
+    width: 70%;
+}
+.fold5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 30px;
+}
+#hide{
+    display: none;
+}
+.vp{
+    background-color: darkgoldenrod;
+}
+.mp{
+    background-color: darkgoldenrod;
+}
+
+
+.fold7{
+   background-image: url("https://images.unsplash.com/photo-1517329782449-810562a4ec2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1463&q=80");
+   height: 90vh;
+   
+}
+#hd1{
+    color: aqua;
+}
+.fold8{
+    background-color: antiquewhite;
+    
+}
+.cont{
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+    padding: 40px;
+}
+.form1{
+    margin: 20px;
+    padding: 10px;
+}
+.container-fluid{
+    padding: 20px;
+}
